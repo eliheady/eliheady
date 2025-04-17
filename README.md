@@ -1,17 +1,13 @@
 ## Hello
 
-I do software development and ops work. I often work in engineering enablement
-roles, doing a blend of development and wheel greasing in the form of devops
-and tooling improvements. As a staff-level engineer and consultant, I have
-helped several teams deliver high quality output through process and platform
-improvements.
+I do software development and ops work and love building and running things.
 
 I have worked in a variety of engineering and operations roles: Syseng in
 scientific computing, Python SWE and DevSecOps consulting in financial services,
 Go and Python dev on high volume serverless AWS services, DevOps IaC development
-in fintech, Linux SA in higher ed and robotics.
+in fintech, Linux sysadmin in higher ed and robotics.
 
-- 🔭 I’m available for work now.
+- 🔭 I’m available for work.
 - 🌱 I’m learning Japanese. はじめまして、イーライです。
 - 💬 I am enjoying the Exercism.org [Go](https://exercism.org/profiles/eliheady)
     track.
